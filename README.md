@@ -801,6 +801,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/piskelapp/piskel) [Piskel](https://www.piskelapp.com/) - 基于浏览器的 sprite 动画及像素艺术编辑器。可作为离线应用使用。
 - [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) [Pixelitor](http://pixelitor.sourceforge.net/) - Pixellitor 是一款免费开源的图像编辑软件，支持图层、图层蒙版、文字图层、过滤器、多重撤销等。
 - [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee) [RawTherapee](https://rawtherapee.com/) - 一款漂亮的但不那么著名的照片编辑应用。
+- [![Open-Source Software][oss icon]](https://github.com/FengZhongShaoNian/sticky-rs) [sticky-rs](https://github.com/FengZhongShaoNian/sticky-rs)  - 一款使用Tauri开发的开源的贴图软件（支持Linux系统），可以将图片钉在桌面上并置顶，还可以对图片进行标注。
 
 #### 图片管理
 
@@ -1041,6 +1042,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [Typora](https://typora.io/) - 极简 Markdown 查看编辑器。
 - [![Open-Source Software][oss icon]](https://github.com/wizteam/wizqtclient) [WizNote](https://github.com/wizteam/wizqtclient) - 一个跨平台云笔记客户端。
  client.
+- [![Open-Source Software][oss icon]](https://github.com/FengZhongShaoNian/sticky-rs) [sticky-rs](https://github.com/FengZhongShaoNian/sticky-rs)  - 一款使用Tauri开发的开源的贴图软件（支持Linux系统），可以将图片钉在桌面上并置顶，还可以对图片进行标注。
 
 #### 时间与任务
 
@@ -1403,6 +1405,7 @@ _如果你想要更详细/进阶/更好分类的 Linux 音频软件列表，你�
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/variety-slideshow) [Variety](https://peterlevi.com/variety/) - Variety 是一款 Linux 下的开源壁纸更改工具，包含强大功能，同时小巧又易用。
 - [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/wayland) [Wayland](https://wayland.freedesktop.org/) - Wayland 旨在作为 X 的简单替代品，更易于开发和维护。
 - [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](http://www.workrave.org/) - 一款帮助恢复以及防止重复性劳损的程序（RSI）。
+- [![Open-Source Software][oss icon]](https://github.com/FengZhongShaoNian/sticky-rs) [sticky-rs](https://github.com/FengZhongShaoNian/sticky-rs)  - 一款使用Tauri开发的开源的贴图软件（支持Linux系统），可以将图片钉在桌面上并置顶，还可以对图片进行标注。
 
 ### 视频
 
